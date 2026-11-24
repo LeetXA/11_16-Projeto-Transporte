@@ -1,0 +1,14 @@
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_16 - Projeto Transporte\obj\Debug\net9.0\11_16 - Projeto Transporte.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_16 - Projeto Transporte\obj\Debug\net9.0\11_16 - Projeto Transporte.AssemblyInfoInputs.cache
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_16 - Projeto Transporte\obj\Debug\net9.0\11_16 - Projeto Transporte.AssemblyInfo.cs
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_16 - Projeto Transporte\obj\Debug\net9.0\11_16 - Projeto Transporte.csproj.CoreCompileInputs.cache
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_16 - Projeto Transporte\bin\Debug\net9.0\11_16 - Projeto Transporte.exe
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_16 - Projeto Transporte\bin\Debug\net9.0\11_16 - Projeto Transporte.deps.json
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_16 - Projeto Transporte\bin\Debug\net9.0\11_16 - Projeto Transporte.runtimeconfig.json
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_16 - Projeto Transporte\bin\Debug\net9.0\11_16 - Projeto Transporte.dll
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_16 - Projeto Transporte\bin\Debug\net9.0\11_16 - Projeto Transporte.pdb
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_16 - Projeto Transporte\obj\Debug\net9.0\11_16 - Projeto Transporte.dll
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_16 - Projeto Transporte\obj\Debug\net9.0\refint\11_16 - Projeto Transporte.dll
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_16 - Projeto Transporte\obj\Debug\net9.0\11_16 - Projeto Transporte.pdb
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_16 - Projeto Transporte\obj\Debug\net9.0\11_16 - Projeto Transporte.genruntimeconfig.cache
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\11_16 - Projeto Transporte\obj\Debug\net9.0\ref\11_16 - Projeto Transporte.dll
